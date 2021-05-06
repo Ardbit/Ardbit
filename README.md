@@ -1,7 +1,7 @@
 ### Hi there 👋
+I'm PixelDev0 (aka Pixel & Pixwl). I love to code in Node.js and I am currently working on making custom discord bots!
 
-- 📫 Email me at `pixeldev0@pm.me`
-
+#### 📊 Weekly development breakdown
 <!--START_SECTION:waka-->
 ```text
 Other        47 hrs 48 mins  ████████████████████████▒   97.86 % 
