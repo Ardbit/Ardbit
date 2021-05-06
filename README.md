@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm PixelDev0 (aka Pixel & Pixwl). I love to code in Node.js and I am currently working on making custom discord bots!
+I'm Pixwl (aka Pixel). I love to code in Node.js and I am currently working on making custom discord bots!
 
 #### 📊 Weekly development breakdown
 <!--START_SECTION:waka-->
