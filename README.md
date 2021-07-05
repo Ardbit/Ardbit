@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm Pixwl (aka Pixel). I love to code in Node.js and I am currently working on making custom discord bots for <a href="https://github.com/slash-labs">@Slash Labs</a>!
+I'm Pixwl (aka Pixel). I love to make Discord and Twitch bots in Node.js and make Minecraft plugins in Java.
 
 #### 📊 Weekly development breakdown
 <!--START_SECTION:waka-->
